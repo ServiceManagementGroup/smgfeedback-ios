@@ -1,0 +1,11 @@
+framework module SMGFeedback {
+  umbrella header "SMGFeedback.h"
+
+  export *
+  module * { export * }
+}
+
+module SMGFeedback.Swift {
+    header "SMGFeedback-Swift.h"
+    requires objc
+}
