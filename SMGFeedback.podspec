@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "SMGFeedback"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Service Management Group Feedback SDK."
   s.homepage     = "https://www.smg.com"
   s.license      = { :type => 'Commercial', :file => 'LICENSE' }
